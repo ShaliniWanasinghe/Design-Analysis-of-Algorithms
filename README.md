@@ -1,4 +1,3 @@
-```
 # Sorting Algorithms in MATLAB
 
 This folder contains MATLAB implementations of common sorting algorithms. Each script demonstrates the logic of sorting a numeric array using a different approach.
