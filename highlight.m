@@ -1,0 +1,14 @@
+s=1;
+t=2:6;
+G=graph(s,t);
+h = plot(G, 'Layout', 'force');
+highlight(h,[1,3],'NodeColor','red');
+highlight(h,[1,2],'NodeColor','red');
+highlight(h,[1,5],'NodeColor','red');
+highlight(h,[1,4],'NodeColor','red');
+highlight(h,[1,6],'NodeColor','red');
+highlight(h,1,3, 'EdgeColor','magenta');
+highlight(h,1,2, 'EdgeColor','cyan');
+highlight(h,1,5, 'EdgeColor','green');
+highlight(h,1,4, 'EdgeColor','black');
+highlight(h,1,6, 'EdgeColor','blue');
