@@ -47,5 +47,8 @@
 ![highlight(2)](https://github.com/user-attachments/assets/6b21d693-50ec-4f88-9145-eb7cf004dcdb)
 
 
+10. Exercise
+
+![Screenshot 2025-06-04 181430](https://github.com/user-attachments/assets/aeae6436-f223-4b3b-8d3b-daac88e2b854)
 
 
