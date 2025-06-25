@@ -52,3 +52,6 @@
 ![Screenshot 2025-06-04 181430](https://github.com/user-attachments/assets/aeae6436-f223-4b3b-8d3b-daac88e2b854)
 
 
+11. Kruskal's Algorithm for MST
+
+![kruskal](https://github.com/user-attachments/assets/ad538fae-3d89-45d7-8185-0b5d925405bb)
